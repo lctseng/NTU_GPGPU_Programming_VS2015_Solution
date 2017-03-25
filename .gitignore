@@ -4,6 +4,7 @@
 
 # lab1 output
 GPGPU Lab1/*.y4m
+GPGPU Lab1/*.mp4
 
 # User-specific files
 *.suo
