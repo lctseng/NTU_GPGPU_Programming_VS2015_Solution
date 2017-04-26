@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{a62afa77-44b6-4cea-a46c-a9f67c636f4c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="..\..\GPGPU_Programming_2016S\lab2\counting.cu">
+      <Filter>Sources</Filter>
+    </CudaCompile>
+    <CudaCompile Include="..\..\GPGPU_Programming_2016S\lab2\main.cu">
+      <Filter>Sources</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\GPGPU_Programming_2016S\lab2\counting.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

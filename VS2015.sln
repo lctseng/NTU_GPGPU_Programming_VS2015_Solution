@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPGPU Lab0", "GPGPU Lab0\GP
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPGPU Lab1", "GPGPU Lab1\GPGPU Lab1.vcxproj", "{F5183980-CD3F-4C16-A1A0-EEA7E8855CA8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPGPU Lab2", "GPGPU Lab2\GPGPU Lab2.vcxproj", "{67BE2527-7A06-46D0-8879-F2A9A42906A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{F5183980-CD3F-4C16-A1A0-EEA7E8855CA8}.Release|x64.Build.0 = Release|x64
 		{F5183980-CD3F-4C16-A1A0-EEA7E8855CA8}.Release|x86.ActiveCfg = Release|Win32
 		{F5183980-CD3F-4C16-A1A0-EEA7E8855CA8}.Release|x86.Build.0 = Release|Win32
+		{67BE2527-7A06-46D0-8879-F2A9A42906A4}.Debug|x64.ActiveCfg = Debug|x64
+		{67BE2527-7A06-46D0-8879-F2A9A42906A4}.Debug|x64.Build.0 = Debug|x64
+		{67BE2527-7A06-46D0-8879-F2A9A42906A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{67BE2527-7A06-46D0-8879-F2A9A42906A4}.Debug|x86.Build.0 = Debug|Win32
+		{67BE2527-7A06-46D0-8879-F2A9A42906A4}.Release|x64.ActiveCfg = Release|x64
+		{67BE2527-7A06-46D0-8879-F2A9A42906A4}.Release|x64.Build.0 = Release|x64
+		{67BE2527-7A06-46D0-8879-F2A9A42906A4}.Release|x86.ActiveCfg = Release|Win32
+		{67BE2527-7A06-46D0-8879-F2A9A42906A4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
