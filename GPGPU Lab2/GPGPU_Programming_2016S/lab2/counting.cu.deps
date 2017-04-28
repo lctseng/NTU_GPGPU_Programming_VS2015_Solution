@@ -321,6 +321,21 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/co
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/host_device.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/debug.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/compiler_fence.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\intrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\setjmp.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\immintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\wmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\nmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\smmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\tmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\pmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\emmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\mmintrin.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\malloc.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ammintrin.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/forceinline.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/exec_check_disable.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/global_workarounds.h
@@ -343,7 +358,6 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstddef
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstddef
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\initializer_list
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\malloc.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_exception.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\eh.h
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_terminate.h
@@ -375,22 +389,6 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\iosfwd
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\crtdbg.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new_debug.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xatomic0.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\intrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\setjmp.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\immintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\wmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\nmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\smmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\tmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\pmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\emmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\mmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ammintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\mm3dnow.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\typeinfo
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_typeinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
@@ -966,8 +964,6 @@ C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
 c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h
 c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
-c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h
-c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
 c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h
@@ -1069,14 +1065,16 @@ C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsyscom.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\nb30.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpcdce.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpcdcep.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\rpcnsi.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpcnterr.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpcasync.h
-C:\Program Files (x86)\Windows Kits\8.1\Include\um\shellapi.h
-C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\shellapi.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\winperf.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
@@ -1114,7 +1112,7 @@ C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winsmcrd.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\winspool.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\prsht.h
-C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\ole2.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
@@ -1142,8 +1140,6 @@ C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\commdlg.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\prsht.h
-C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
-C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsvc.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\mcx.h
