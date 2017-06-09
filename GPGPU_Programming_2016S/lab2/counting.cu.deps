@@ -321,6 +321,23 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/co
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/host_device.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/debug.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/compiler_fence.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\intrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\setjmp.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\immintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\wmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\nmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\smmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\tmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\pmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\emmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\mmintrin.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\malloc.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ammintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\mm3dnow.h
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/forceinline.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/exec_check_disable.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/config/global_workarounds.h
@@ -343,7 +360,6 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstddef
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstddef
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\initializer_list
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\malloc.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_exception.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\eh.h
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_terminate.h
@@ -375,22 +391,6 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\iosfwd
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\crtdbg.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new_debug.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xatomic0.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\intrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\setjmp.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\immintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\wmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\nmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\smmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\tmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\pmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\emmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\mmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ammintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\mm3dnow.h
-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\typeinfo
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_typeinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
@@ -713,11 +713,83 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/de
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/scan_by_key.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/scan_by_key.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/scan_by_key.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/device_vector.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/device_malloc_allocator.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/device_ptr.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/memory.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/device_ptr.inl
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/device_reference.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/device_reference.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/device_malloc.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/device_malloc.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/device_free.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/device_free.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/vector_base.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/reverse_iterator.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/detail/reverse_iterator_base.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/detail/reverse_iterator.inl
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vector
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/vector_base.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/overlapped_copy.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/equal.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/equal.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/equal.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/equal.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/mismatch.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/mismatch.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/mismatch.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/mismatch.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/find.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/find.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/find.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/find.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/reduce.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/reduce.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reduce.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reduce.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reduce_by_key.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reduce_by_key.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/scatter.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/scatter.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/scatter.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/scatter.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/scatter.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/scatter.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/scatter.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/scatter.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/reduce.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/reduce.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/reduce.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/reduce_by_key.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/reduce_by_key.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/type_traits/algorithm/intermediate_type_from_function_and_iterators.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/reduce_by_key.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce_by_key.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce_by_key.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/constant_iterator.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/detail/constant_iterator_base.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/discard_iterator.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/detail/discard_iterator_base.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/range/head_flags.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/range/tail_flags.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce_intervals.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/find.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/find.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/find.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/find.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/mismatch.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/mismatch.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/mismatch.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/mismatch.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/equal.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/equal.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/equal.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/equal.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/device_vector.inl
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/host_vector.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/host_vector.inl
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/execution_policy.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/execution_policy.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/par.h
@@ -728,29 +800,19 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/de
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/copy_if.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/copy_if.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/count.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/equal.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/extrema.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/extrema.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/find.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/find.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/gather.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/inner_product.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/logical.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/merge.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/merge.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/merge.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/mismatch.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/partition.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/partition.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/reduce.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/reduce.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/reduce_by_key.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/reduce_by_key.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/type_traits/algorithm/intermediate_type_from_function_and_iterators.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/remove.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/remove.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/reverse.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/scatter.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/sequence.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cpp/detail/set_operations.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/set_operations.h
@@ -761,9 +823,6 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/reverse.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/reverse.inl
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reverse.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reverse.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/reverse_iterator.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/detail/reverse_iterator_base.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/detail/reverse_iterator.inl
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/reverse.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/reverse.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reverse.h
@@ -795,13 +854,6 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/co
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/copy_if.inl
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/copy_if.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/copy_if.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/scatter.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/scatter.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/scatter.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/scatter.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/scatter.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/scatter.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/scatter.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/copy_if.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/copy_if.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/copy_if.inl
@@ -830,25 +882,6 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cp
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/sequential/unique_by_key.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/execution_policy.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/par.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/reduce.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/reduce.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reduce.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reduce.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reduce_by_key.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/reduce_by_key.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/reduce.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/reduce_by_key.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce_by_key.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce_by_key.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/constant_iterator.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/detail/constant_iterator_base.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/discard_iterator.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/iterator/detail/discard_iterator_base.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/range/head_flags.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/range/tail_flags.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/reduce_intervals.hpp
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/sort.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/sort.inl
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/detail/stable_merge_sort.h
@@ -1187,12 +1220,6 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/sort.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/sort.inl
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/sort.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/sort.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/find.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/detail/find.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/find.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/find.inl
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/find.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/find.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/sort.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/partition.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/partition.h
@@ -1205,11 +1232,9 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/de
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/generic/adjacent_difference.inl
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/adl/adjacent_difference.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/binary_search.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/equal.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/extrema.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/inner_product.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/logical.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/mismatch.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/set_operations.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/set_difference.inl
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/set_operations.h
